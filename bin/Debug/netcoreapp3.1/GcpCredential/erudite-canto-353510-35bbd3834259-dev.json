@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "erudite-canto-353510",
+  "private_key_id": "35bbd3834259e496af2f4632a009adf143660dd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCn9kDyyHnCjMba\nl3Gp5kLtNjXChx4VcN/wLTkxF7O6UXIiPQNyFxXOoz089nbwGmUrwaFgX50deQA5\n8oNZKl6RX1hSrq6thFXU6qYLBbVerWm9GcdFyPG8/RqO9/f1DgHJ3E6SMe+7Hc7G\nk85vPWwQR0e72vCRAGcNC7ZCcVi3kNIMZ1ccI9IbF9WssvN3RHTePCDFpvUYgb6T\nL7M5Qhn3fs+vhQpCCDcjps7PWPpjFaDslun/8fjOoIW9vVpAbmY3CqgbXMLeLwge\n/z1RACpxhEAeDcrEgzgLvc7prX2OU4s2e5aCuJuOt2mvTtGd7+D7fv3eLmI53D7u\nBE9QhW7DAgMBAAECggEAAKVVwpk6vqDD8vs6GKkmALuAoWrblsGEWuwRmDq7GjBN\n/Au4A6xLDSxbg+x+sJWpZe2srS4w8HgSpCZmkuUyz+RJ9qdtTIWBvvvX/5raA68v\nBOcgeQg4xb1DaOFTNsIDB7+tHarLfTC0JtdSp+LYk4dyoypIWoZh3w74eHDvImWO\njojJga20IQVKGmE4SxRiyTaQ1ydew8FLupUHoovRh7vQ1tXALFQloFpf8dxwqeTK\nB0cbyMvURS2FGebUzKtLdkK5KB2wInBpfTKaycvilix1+QIucU7aw7c2Jw+jojDJ\nlE0iIg1HmT/M3fT3B3rCtqwotXJ9lZjbcHZvYw/3gQKBgQDnRzS0eKRAmBzMBA9j\nLWKpZ8QWr5ZM7dbcdu0EiqztdkUZg5OtcvEhfIfB+/p0Eb5IsbUO2ftHbeYdRebU\nZSKS9xNJyxK00iiUTRy7LdParzSCPTgYZpq11IdsqD3fig082zTPKZJl2bZex/GV\nnCf1KXRFIugZo5vWaN6UgzUAkQKBgQC56m+L0P/DkcsqgLEaJJ7iOCSu8UeYzSVP\n8trXv2RVmD0xcnRm4xUZNVei72w2vZRgSfswlBIN0K/3RyUMdZz2Pb8SSVX9qfI1\nO3C+rq30RU+X0GyagSlzagfJmQM6olK69v859CiYua2fd8nyaZ0O76GzCUtUsDc6\nex3BaGIkEwKBgQCbQrYjIYpCwtsyKteZoPJG/54oDKA97Lz9K+lZzy7gCzHAOxB8\ntFkkPdF1bI9qNC8l5gbCfZuvDBwbMr4PgAWB29RbCbT5JsyPImVTUySR/mSluita\nVicuQgrX6un+k1Lns9Dz8diR/2HqpxeLdFVuw/GGKDTgYXFQsv4ZfSurwQKBgBjQ\nRGEJ3QkSLWaX1Itjtd0Fl0fOJjsrrj40cKb5AYA3GHvABe8xgcBikTbK88t+lA4h\n8aezK5Gyd7nuQfCexftLlHPxW8vGYfBe5ZZdpBQFKDFf/Q7GDG0+CpoKlRa/UYFo\ns/ndL4nqxlSRXV/AXtj+fLtzkx1Tg5uHkRoeP3MHAoGAIDsAA1eqJlm50b0QopQY\nq1hpFrTM0EKVhW4miYV+smoMI0IgK3D3ZRKG/mqQh4ig5VmEtkfYe+R6MHXuEshv\n4l8BGVGbgP01iXsEaSUFG/8PPpKEKpZq8GFPi5236mlhp8w76XhJyaaePJWkA09U\nhb89jivySelf6da9kDsCyho=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soch-2022-cloud@erudite-canto-353510.iam.gserviceaccount.com",
+  "client_id": "109726612881644254441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soch-2022-cloud%40erudite-canto-353510.iam.gserviceaccount.com"
+}
